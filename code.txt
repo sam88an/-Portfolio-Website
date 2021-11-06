@@ -1,0 +1,4 @@
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;500;600;700;800&family=Indie+Flower&display=swap" rel="stylesheet">
+font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Indie Flower', cursive;
